@@ -24,3 +24,5 @@
 <br><br>
 Скриншот с хостовой машины вывода команды netstat -ano | findstr :8080 (хостовая машина Windows):<br><br>
 <img width="873" height="79" alt="image" src="https://github.com/user-attachments/assets/c67b224e-cc15-45f0-81d5-84ae90326672" />
+<br><br>
+[Vagrantfile](https://github.com/mrigorevich/vagrant/blob/main/Vagrantfile)
