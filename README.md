@@ -17,3 +17,10 @@
 Создает точки монтирования /mnt/disk1 и /mnt/disk2.<br>
 Монтирует диски в указанные директории.<br>
 Добавляет записи в /etc/fstab для автоматического монтирования при загрузке.<br>
+<br><br>
+
+Скриншот вывода команды df -h с запущенной ВМ:<br><br>
+<img width="793" height="244" alt="image" src="https://github.com/user-attachments/assets/1edb9317-d1ff-44d1-8f63-2fb770eed909" />
+<br><br>
+Скриншот с хостовой машины вывода команды netstat -ano | findstr :8080 (хостовая машина Windows):<br><br>
+<img width="873" height="79" alt="image" src="https://github.com/user-attachments/assets/c67b224e-cc15-45f0-81d5-84ae90326672" />
